@@ -1,7 +1,7 @@
 {
   "name": "dice-game",
   "version": "1.0.0",
-  "description": "",
+  "description": "Multi-player dice game built with HTML, CSS, and JS",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
